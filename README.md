@@ -4,3 +4,6 @@
 
 # Control Flow Graph
 ![119895677-5a5f3a80-bf3e-11eb-9026-5a05427bd4a8](https://user-images.githubusercontent.com/82404148/120225640-e37bb780-c245-11eb-91ff-761f201f28ca.png)
+
+# Цикломатска комплексност
+Цикломатската комплексност на Control Flow графот изнесува 8. e-v+2 => 29 ребра - 23 темиња + 2 = 8
